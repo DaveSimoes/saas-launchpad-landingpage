@@ -84,4 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/DaveSimoes)
+Made with ❤️ by [David Simoes](https://github.com/DaveSimoes)
