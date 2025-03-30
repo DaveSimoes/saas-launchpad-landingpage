@@ -2,7 +2,7 @@
 
 A Landing Page template for SaaS applications.
 
-![Preview](/app/opengraph-image.png)
+![Preview](/app/main-image.png)
 
 ## 🚀 Overview
 
