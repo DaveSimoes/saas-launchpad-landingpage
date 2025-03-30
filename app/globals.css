@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-background text-foreground border-border;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  :root {
+    --background: #EEEEEC;
+    --foreground: #131316;
+    --muted-foreground: hsl(0, 0%, 41%);
+    --light: #5ba8ff;
+    --card: #eaeaea;
+    --border: #d5d5d5;
+  }
+  
+  .dark {
+    --background: #131316;
+    --foreground: #EEEEEC;
+    --muted-foreground: #ABA9A3;
+    --light:#016FEE;
+    --card: #1c1c1c;
+    --border: #202020;
+  }
+}
